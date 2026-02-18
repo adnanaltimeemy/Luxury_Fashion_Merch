@@ -1,0 +1,13 @@
+Company,Region,Sales (£m),Profit (£m),ProfitMargin (%)_x,Revenue (£m),EBITDA (£m),PreTaxProfit (£m),Stores,OnlineSalesGrowth (%),InternationalSales (%),ProfitMargin (%)_y
+Monsoon,London,43,4.29,9.97,212.2,8.0,1.0,180,12,15,0.4712535344015081
+Monsoon,South West,19,1.77,9.32,212.2,8.0,1.0,180,12,15,0.4712535344015081
+Monsoon,South East,25,0.89,3.56,212.2,8.0,1.0,180,12,15,0.4712535344015081
+Monsoon,Midlands,23,0.69,3.0,212.2,8.0,1.0,180,12,15,0.4712535344015081
+Monsoon,North,15,1.6,10.66,212.2,8.0,1.0,180,12,15,0.4712535344015081
+Monsoon,Scotland,40,1.37,3.43,212.2,8.0,1.0,180,12,15,0.4712535344015081
+Seasalt Cornwall,London,7,0.15,2.21,150.0,11.0,4.4,79,8,11,2.9333333333333336
+Seasalt Cornwall,South West,6,0.55,9.22,150.0,11.0,4.4,79,8,11,2.9333333333333336
+Seasalt Cornwall,South East,34,1.4,4.12,150.0,11.0,4.4,79,8,11,2.9333333333333336
+Seasalt Cornwall,Midlands,25,2.04,8.17,150.0,11.0,4.4,79,8,11,2.9333333333333336
+Seasalt Cornwall,North,26,0.54,2.07,150.0,11.0,4.4,79,8,11,2.9333333333333336
+Seasalt Cornwall,Scotland,29,1.42,4.91,150.0,11.0,4.4,79,8,11,2.9333333333333336
