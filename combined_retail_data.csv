@@ -1,0 +1,9 @@
+Company,Age_Group,Income_Level,Gender,Customer_Percentage,Revenue_GBP_Million,Profit_Margin_Percent,Market_Position,Primary_Customers,Profit_GBP_Million
+Primark,18-24,Low,Female,30,9500,11.9,Budget / Value Retail,Low to Middle Income,1130.5
+Primark,25-34,Low-Middle,Female,35,9500,11.9,Budget / Value Retail,Low to Middle Income,1130.5
+Primark,35-44,Middle,Female,20,9500,11.9,Budget / Value Retail,Low to Middle Income,1130.5
+Primark,45-60,Middle,Female,15,9500,11.9,Budget / Value Retail,Low to Middle Income,1130.5
+The White Company,25-34,Middle,Female,20,800,18.5,Premium Lifestyle Retail,Middle to High Income,148.0
+The White Company,35-44,Middle-High,Female,30,800,18.5,Premium Lifestyle Retail,Middle to High Income,148.0
+The White Company,45-54,High,Female,30,800,18.5,Premium Lifestyle Retail,Middle to High Income,148.0
+The White Company,55+,High,Female,20,800,18.5,Premium Lifestyle Retail,Middle to High Income,148.0
