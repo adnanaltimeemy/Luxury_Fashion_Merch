@@ -1,0 +1,145 @@
+Company,Region,Age Group,Gender,Customers,Avg Spending (£)
+Argos,London,18-24,Male,155891,238.08
+Argos,London,18-24,Female,270156,176.92
+Argos,London,25-34,Male,94425,240.56
+Argos,London,25-34,Female,216807,413.08
+Argos,London,35-44,Male,164352,379.24
+Argos,London,35-44,Female,67955,217.41
+Argos,London,45-54,Male,246582,311.24
+Argos,London,45-54,Female,269798,468.84
+Argos,London,55-64,Male,111476,157.37
+Argos,London,55-64,Female,201222,387.89
+Argos,London,65+,Male,162856,157.21
+Argos,London,65+,Female,236141,456.15
+Argos,South East,18-24,Male,64397,273.45
+Argos,South East,18-24,Female,181800,194.02
+Argos,South East,25-34,Male,116234,94.99
+Argos,South East,25-34,Female,129459,54.88
+Argos,South East,35-44,Male,254008,431.21
+Argos,South East,35-44,Female,250968,193.69
+Argos,South East,45-54,Male,263709,354.55
+Argos,South East,45-54,Female,213379,308.05
+Argos,South East,55-64,Male,55486,87.48
+Argos,South East,55-64,Female,176020,181.94
+Argos,South East,65+,Male,270184,299.17
+Argos,South East,65+,Female,137508,388.57
+Argos,Midlands,18-24,Male,110566,401.58
+Argos,Midlands,18-24,Female,51062,91.04
+Argos,Midlands,25-34,Male,202617,488.41
+Argos,Midlands,25-34,Female,138461,297.29
+Argos,Midlands,35-44,Male,59348,381.67
+Argos,Midlands,35-44,Female,124460,207.91
+Argos,Midlands,45-54,Male,56801,485.89
+Argos,Midlands,45-54,Female,229208,392.68
+Argos,Midlands,55-64,Male,281915,440.09
+Argos,Midlands,55-64,Female,225333,87.85
+Argos,Midlands,65+,Male,227804,150.16
+Argos,Midlands,65+,Female,243928,419.84
+Argos,North West,18-24,Male,69065,115.97
+Argos,North West,18-24,Female,138092,88.18
+Argos,North West,25-34,Male,76962,311.59
+Argos,North West,25-34,Female,223420,216.79
+Argos,North West,35-44,Male,288067,156.51
+Argos,North West,35-44,Female,221334,493.7
+Argos,North West,45-54,Male,141267,207.6
+Argos,North West,45-54,Female,270411,87.58
+Argos,North West,55-64,Male,253196,220.09
+Argos,North West,55-64,Female,76790,240.9
+Argos,North West,65+,Male,236201,198.61
+Argos,North West,65+,Female,65485,271.68
+Argos,Scotland,18-24,Male,54748,232.34
+Argos,Scotland,18-24,Female,53709,75.34
+Argos,Scotland,25-34,Male,236843,395.24
+Argos,Scotland,25-34,Female,206542,342.14
+Argos,Scotland,35-44,Male,102224,356.47
+Argos,Scotland,35-44,Female,130219,482.98
+Argos,Scotland,45-54,Male,280590,264.97
+Argos,Scotland,45-54,Female,73960,440.87
+Argos,Scotland,55-64,Male,153333,246.35
+Argos,Scotland,55-64,Female,248713,55.47
+Argos,Scotland,65+,Male,179695,300.2
+Argos,Scotland,65+,Female,284286,451.01
+Argos,Wales,18-24,Male,274117,466.09
+Argos,Wales,18-24,Female,257611,83.21
+Argos,Wales,25-34,Male,141362,362.94
+Argos,Wales,25-34,Female,291080,285.39
+Argos,Wales,35-44,Male,67640,147.56
+Argos,Wales,35-44,Female,102638,498.12
+Argos,Wales,45-54,Male,160133,312.94
+Argos,Wales,45-54,Female,200159,381.7
+Argos,Wales,55-64,Male,188186,176.43
+Argos,Wales,55-64,Female,192047,76.04
+Argos,Wales,65+,Male,271541,255.05
+Argos,Wales,65+,Female,116203,201.05
+The Range,London,18-24,Male,59337,134.65
+The Range,London,18-24,Female,111529,224.72
+The Range,London,25-34,Male,155787,312.65
+The Range,London,25-34,Female,208427,212.16
+The Range,London,35-44,Male,54835,493.79
+The Range,London,35-44,Female,228677,64.54
+The Range,London,45-54,Male,219160,189.29
+The Range,London,45-54,Female,107043,321.25
+The Range,London,55-64,Male,147007,123.18
+The Range,London,55-64,Female,215421,84.29
+The Range,London,65+,Male,226517,477.41
+The Range,London,65+,Female,99407,311.52
+The Range,South East,18-24,Male,256744,238.21
+The Range,South East,18-24,Female,265863,444.5
+The Range,South East,25-34,Male,106570,70.35
+The Range,South East,25-34,Female,51015,219.41
+The Range,South East,35-44,Male,77712,266.17
+The Range,South East,35-44,Female,292926,117.69
+The Range,South East,45-54,Male,112292,387.31
+The Range,South East,45-54,Female,243752,486.46
+The Range,South East,55-64,Male,122474,306.09
+The Range,South East,55-64,Female,201456,260.91
+The Range,South East,65+,Male,155570,110.23
+The Range,South East,65+,Female,50404,75.37
+The Range,Midlands,18-24,Male,210261,361.27
+The Range,Midlands,18-24,Female,241172,499.87
+The Range,Midlands,25-34,Male,285365,460.92
+The Range,Midlands,25-34,Female,73574,396.04
+The Range,Midlands,35-44,Male,60916,390.69
+The Range,Midlands,35-44,Female,234402,161.31
+The Range,Midlands,45-54,Male,237469,142.27
+The Range,Midlands,45-54,Female,215888,479.32
+The Range,Midlands,55-64,Male,198172,143.25
+The Range,Midlands,55-64,Female,251152,352.27
+The Range,Midlands,65+,Male,158319,71.1
+The Range,Midlands,65+,Female,293806,101.1
+The Range,North West,18-24,Male,64489,274.17
+The Range,North West,18-24,Female,111877,397.54
+The Range,North West,25-34,Male,144074,188.5
+The Range,North West,25-34,Female,224016,298.36
+The Range,North West,35-44,Male,156884,89.78
+The Range,North West,35-44,Female,87626,231.57
+The Range,North West,45-54,Male,234943,266.02
+The Range,North West,45-54,Female,65254,389.81
+The Range,North West,55-64,Male,89764,337.71
+The Range,North West,55-64,Female,273306,145.83
+The Range,North West,65+,Male,131317,327.77
+The Range,North West,65+,Female,286257,207.76
+The Range,Scotland,18-24,Male,105393,336.49
+The Range,Scotland,18-24,Female,75934,246.86
+The Range,Scotland,25-34,Male,242958,376.88
+The Range,Scotland,25-34,Female,144456,281.3
+The Range,Scotland,35-44,Male,147239,459.71
+The Range,Scotland,35-44,Female,251245,329.94
+The Range,Scotland,45-54,Male,93088,477.28
+The Range,Scotland,45-54,Female,220883,256.71
+The Range,Scotland,55-64,Male,266464,271.45
+The Range,Scotland,55-64,Female,69963,79.81
+The Range,Scotland,65+,Male,152468,491.01
+The Range,Scotland,65+,Female,64388,206.34
+The Range,Wales,18-24,Male,154573,335.03
+The Range,Wales,18-24,Female,193087,203.7
+The Range,Wales,25-34,Male,187326,108.0
+The Range,Wales,25-34,Female,286726,313.14
+The Range,Wales,35-44,Male,187162,112.47
+The Range,Wales,35-44,Female,74071,131.03
+The Range,Wales,45-54,Male,175827,205.55
+The Range,Wales,45-54,Female,264879,263.28
+The Range,Wales,55-64,Male,119724,487.9
+The Range,Wales,55-64,Female,78732,136.53
+The Range,Wales,65+,Male,205026,419.81
+The Range,Wales,65+,Female,268577,175.37
